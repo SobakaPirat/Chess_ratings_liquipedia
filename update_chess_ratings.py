@@ -110,5 +110,4 @@ def update_all_pages_in_category(category_name):
         # Update the page with ratings
         update_page_with_ratings(page, ratings)
 
-# Example usage
 update_all_pages_in_category("Players")
