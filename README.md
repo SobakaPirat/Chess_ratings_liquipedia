@@ -1,5 +1,5 @@
 # Chess_ratings_liquipedia
-Script for updating fide ratings on liquipedia pages
+Pywikibot script for updating fide ratings on liquipedia pages
 
 - Goes through all "Players" category pages
 - Looks for a `fide` parameter and gets the ratings through the API
